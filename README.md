@@ -13,8 +13,8 @@ The test script automates the following workflow:
    `https://organization-frotnend3-gold.vercel.app/`
 3. Locates and interacts with login form elements — **username**, **password**, and **login button**.
 4. Submits valid credentials:
-   - **Email:** `admin@example.com`  
-   - **Password:** `aszx1234`
+   - **Email:** `a**********.com`  
+   - **Password:** `*******`
 5. Validates successful login by verifying the redirected URL contains:  
    `/admin/UltimateHoldingCompany`
 6. Closes the browser session after execution.
