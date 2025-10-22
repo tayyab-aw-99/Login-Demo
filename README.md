@@ -74,4 +74,4 @@ This automation test ensures that the login functionality of the LEI SHING HONG 
 **Project:** LEI SHING HONG Login Automation Test
 ````
 
-Would you like me to make it more concise (for GitHub README) or keep it detailed (for a portfolio/documentation file)?
+
